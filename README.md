@@ -5,4 +5,5 @@ npx create-react-app .
 import { Contract, ethers, providers, utils } from "ethers";
 
   npm install web3modal
+  
   npm install ethers
